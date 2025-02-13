@@ -1,0 +1,14 @@
+E:\DotNet - Portifolio\Estudo-Dot-Net\Estudo-Extra-Sudoku-Resolver\bin\Debug\net8.0\Estudo-Extra-Sudoku-Resolver.exe
+E:\DotNet - Portifolio\Estudo-Dot-Net\Estudo-Extra-Sudoku-Resolver\bin\Debug\net8.0\Estudo-Extra-Sudoku-Resolver.deps.json
+E:\DotNet - Portifolio\Estudo-Dot-Net\Estudo-Extra-Sudoku-Resolver\bin\Debug\net8.0\Estudo-Extra-Sudoku-Resolver.runtimeconfig.json
+E:\DotNet - Portifolio\Estudo-Dot-Net\Estudo-Extra-Sudoku-Resolver\bin\Debug\net8.0\Estudo-Extra-Sudoku-Resolver.dll
+E:\DotNet - Portifolio\Estudo-Dot-Net\Estudo-Extra-Sudoku-Resolver\bin\Debug\net8.0\Estudo-Extra-Sudoku-Resolver.pdb
+E:\DotNet - Portifolio\Estudo-Dot-Net\Estudo-Extra-Sudoku-Resolver\obj\Debug\net8.0\Estudo-Extra-Sudoku-Resolver.GeneratedMSBuildEditorConfig.editorconfig
+E:\DotNet - Portifolio\Estudo-Dot-Net\Estudo-Extra-Sudoku-Resolver\obj\Debug\net8.0\Estudo-Extra-Sudoku-Resolver.AssemblyInfoInputs.cache
+E:\DotNet - Portifolio\Estudo-Dot-Net\Estudo-Extra-Sudoku-Resolver\obj\Debug\net8.0\Estudo-Extra-Sudoku-Resolver.AssemblyInfo.cs
+E:\DotNet - Portifolio\Estudo-Dot-Net\Estudo-Extra-Sudoku-Resolver\obj\Debug\net8.0\Estudo-Extra-Sudoku-Resolver.csproj.CoreCompileInputs.cache
+E:\DotNet - Portifolio\Estudo-Dot-Net\Estudo-Extra-Sudoku-Resolver\obj\Debug\net8.0\Estudo-Extra-Sudoku-Resolver.dll
+E:\DotNet - Portifolio\Estudo-Dot-Net\Estudo-Extra-Sudoku-Resolver\obj\Debug\net8.0\refint\Estudo-Extra-Sudoku-Resolver.dll
+E:\DotNet - Portifolio\Estudo-Dot-Net\Estudo-Extra-Sudoku-Resolver\obj\Debug\net8.0\Estudo-Extra-Sudoku-Resolver.pdb
+E:\DotNet - Portifolio\Estudo-Dot-Net\Estudo-Extra-Sudoku-Resolver\obj\Debug\net8.0\Estudo-Extra-Sudoku-Resolver.genruntimeconfig.cache
+E:\DotNet - Portifolio\Estudo-Dot-Net\Estudo-Extra-Sudoku-Resolver\obj\Debug\net8.0\ref\Estudo-Extra-Sudoku-Resolver.dll

@@ -1,0 +1,14 @@
+E:\DotNet - Portifolio\Estudo-Dot-Net\Alura-Desafio-1-Gerenciador-PodCast\bin\Debug\net8.0\Alura-Desafio-1-Gerenciador-PodCast.exe
+E:\DotNet - Portifolio\Estudo-Dot-Net\Alura-Desafio-1-Gerenciador-PodCast\bin\Debug\net8.0\Alura-Desafio-1-Gerenciador-PodCast.deps.json
+E:\DotNet - Portifolio\Estudo-Dot-Net\Alura-Desafio-1-Gerenciador-PodCast\bin\Debug\net8.0\Alura-Desafio-1-Gerenciador-PodCast.runtimeconfig.json
+E:\DotNet - Portifolio\Estudo-Dot-Net\Alura-Desafio-1-Gerenciador-PodCast\bin\Debug\net8.0\Alura-Desafio-1-Gerenciador-PodCast.dll
+E:\DotNet - Portifolio\Estudo-Dot-Net\Alura-Desafio-1-Gerenciador-PodCast\bin\Debug\net8.0\Alura-Desafio-1-Gerenciador-PodCast.pdb
+E:\DotNet - Portifolio\Estudo-Dot-Net\Alura-Desafio-1-Gerenciador-PodCast\obj\Debug\net8.0\Alura-Desafio-1-Gerenciador-PodCast.GeneratedMSBuildEditorConfig.editorconfig
+E:\DotNet - Portifolio\Estudo-Dot-Net\Alura-Desafio-1-Gerenciador-PodCast\obj\Debug\net8.0\Alura-Desafio-1-Gerenciador-PodCast.AssemblyInfoInputs.cache
+E:\DotNet - Portifolio\Estudo-Dot-Net\Alura-Desafio-1-Gerenciador-PodCast\obj\Debug\net8.0\Alura-Desafio-1-Gerenciador-PodCast.AssemblyInfo.cs
+E:\DotNet - Portifolio\Estudo-Dot-Net\Alura-Desafio-1-Gerenciador-PodCast\obj\Debug\net8.0\Alura-Desafio-1-Gerenciador-PodCast.csproj.CoreCompileInputs.cache
+E:\DotNet - Portifolio\Estudo-Dot-Net\Alura-Desafio-1-Gerenciador-PodCast\obj\Debug\net8.0\Alura-Desafio-1-Gerenciador-PodCast.dll
+E:\DotNet - Portifolio\Estudo-Dot-Net\Alura-Desafio-1-Gerenciador-PodCast\obj\Debug\net8.0\refint\Alura-Desafio-1-Gerenciador-PodCast.dll
+E:\DotNet - Portifolio\Estudo-Dot-Net\Alura-Desafio-1-Gerenciador-PodCast\obj\Debug\net8.0\Alura-Desafio-1-Gerenciador-PodCast.pdb
+E:\DotNet - Portifolio\Estudo-Dot-Net\Alura-Desafio-1-Gerenciador-PodCast\obj\Debug\net8.0\Alura-Desafio-1-Gerenciador-PodCast.genruntimeconfig.cache
+E:\DotNet - Portifolio\Estudo-Dot-Net\Alura-Desafio-1-Gerenciador-PodCast\obj\Debug\net8.0\ref\Alura-Desafio-1-Gerenciador-PodCast.dll

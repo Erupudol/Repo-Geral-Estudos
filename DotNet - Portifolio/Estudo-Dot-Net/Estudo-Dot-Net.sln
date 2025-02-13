@@ -1,0 +1,45 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.12.35707.178
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "1 - Em Andamento", "1 - Em Andamento", "{694D79DA-5F18-43F7-8D21-CC9652DD6B8A}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "2 - Concluido", "2 - Concluido", "{D7BB8A5B-3D5E-4014-8C0C-3F14939C9746}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "0 - A fazer", "0 - A fazer", "{7C19EE01-1C0C-421E-81F8-4EFCF8B2B8F8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Estudo-Extra-Sudoku-Resolver", "Estudo-Extra-Sudoku-Resolver\Estudo-Extra-Sudoku-Resolver.csproj", "{BE660032-FA0B-4A0D-8FFA-C317F2787054}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Alura-Desafio-1-Gerenciador-PodCast", "Alura-Desafio-1-Gerenciador-PodCast\Alura-Desafio-1-Gerenciador-PodCast.csproj", "{BF5FF369-D63F-477F-9BCC-B9330C3DD9C9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Poc-HTML-to-PDF-Header-Footer", "Poc-HTML-to-PDF-Header-Footer\Poc-HTML-to-PDF-Header-Footer.csproj", "{342E5D22-5ADA-4C87-A3F9-1D1D808DF59F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BE660032-FA0B-4A0D-8FFA-C317F2787054}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BE660032-FA0B-4A0D-8FFA-C317F2787054}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BE660032-FA0B-4A0D-8FFA-C317F2787054}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BE660032-FA0B-4A0D-8FFA-C317F2787054}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BF5FF369-D63F-477F-9BCC-B9330C3DD9C9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BF5FF369-D63F-477F-9BCC-B9330C3DD9C9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BF5FF369-D63F-477F-9BCC-B9330C3DD9C9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BF5FF369-D63F-477F-9BCC-B9330C3DD9C9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{342E5D22-5ADA-4C87-A3F9-1D1D808DF59F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{342E5D22-5ADA-4C87-A3F9-1D1D808DF59F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{342E5D22-5ADA-4C87-A3F9-1D1D808DF59F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{342E5D22-5ADA-4C87-A3F9-1D1D808DF59F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{BE660032-FA0B-4A0D-8FFA-C317F2787054} = {7C19EE01-1C0C-421E-81F8-4EFCF8B2B8F8}
+		{BF5FF369-D63F-477F-9BCC-B9330C3DD9C9} = {7C19EE01-1C0C-421E-81F8-4EFCF8B2B8F8}
+		{342E5D22-5ADA-4C87-A3F9-1D1D808DF59F} = {7C19EE01-1C0C-421E-81F8-4EFCF8B2B8F8}
+	EndGlobalSection
+EndGlobal
